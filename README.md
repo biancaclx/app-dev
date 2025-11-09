@@ -1,4 +1,4 @@
-![51u2e9n0ytL _AC_UF894,1000_QL80_](https://github.com/user-attachments/assets/01480008-6900-4906-94af-1efe4e175a9a)# app-dev
+# app-dev
 My first repository
 
 # My favorite series
